@@ -1,6 +1,4 @@
 Sure, here's a basic `README.md` file for your project:
-
-```markdown
 # Spring Boot Application Deployment to SAP BTP
 
 This is a simple Spring Boot application that is deployed to SAP Business Technology Platform (BTP) using a `manifest.yml` file.
@@ -43,4 +41,3 @@ The application is deployed to SAP BTP using the Cloud Foundry command-line inte
     ```
 
     This command will read the `manifest.yml` file and deploy the application according to its configuration.
-
