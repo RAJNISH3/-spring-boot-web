@@ -1,4 +1,3 @@
-Sure, here's a basic `README.md` file for your project:
 # Spring Boot Application Deployment to SAP BTP
 
 This is a simple Spring Boot application that is deployed to SAP Business Technology Platform (BTP) using a `manifest.yml` file.
